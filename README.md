@@ -1,4 +1,4 @@
-# DescoShop Infrastructure
+# Infrastructure
 
 Este repositório contém os arquivos Terraform para provisionar a infraestrutura
 
