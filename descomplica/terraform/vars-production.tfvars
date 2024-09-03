@@ -1,0 +1,11 @@
+aws_region = "us-east-1"
+terraform_bucket = "descoshop-prod-terraform-state"
+cluster_name = "descoshop-prod-cluster"
+vpc_id = "vpc-xxxxxxxx"
+subnet_ids = ["subnet-xxxxxx1", "subnet-xxxxxx2", "subnet-xxxxxx3"]
+bucket_name = "descoshop-prod-frontend"
+db_name = "descoshopdb_prod"
+db_username = "admin_prod"
+db_password = "prod_strongpassword"
+security_group_id = "sg-xxxxxxxx"
+subnet_group_name = "descoshop-prod-db-subnet-group"

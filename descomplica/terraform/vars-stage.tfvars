@@ -1,0 +1,11 @@
+aws_region = "us-east-1"
+terraform_bucket = "descoshop-stage-terraform-state"
+cluster_name = "descoshop-stage-cluster"
+vpc_id = "vpc-yyyyyyyy"
+subnet_ids = ["subnet-yyyyyy1", "subnet-yyyyyy2", "subnet-yyyyyy3"]
+bucket_name = "descoshop-stage-frontend"
+db_name = "descoshopdb_stage"
+db_username = "admin_stage"
+db_password = "stage_strongpassword"
+security_group_id = "sg-yyyyyyyy"
+subnet_group_name = "descoshop-stage-db-subnet-group"
